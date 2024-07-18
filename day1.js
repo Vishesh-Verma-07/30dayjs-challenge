@@ -1,3 +1,5 @@
+//  VARIABLES AND DATA TYPES
+
 // Task/Activities
 // Activity 1: Variable Declartion
 var a = 2;
