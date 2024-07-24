@@ -1,0 +1,68 @@
+.task{
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.image{
+    width: 400px;
+    height: auto;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: beige;
+}
+
+.imgContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.backgroundchanger{
+    height: 150px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: blueviolet;
+}
+
+.answer{
+    border: 2px solid black;
+    width: 300px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.answer2{
+    border: 2px solid black;
+    width: 300px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.field{
+    border: 2px solid black;
+    width: 300px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.optionPara{
+    height: 100px;
+    width: 300px;
+    border: 2px solid violet;
+    margin-top: 10px;
+}
